@@ -1,0 +1,24 @@
+C:\Users\Howard Williams\source\repos\wexp\wexp\bin\Debug\wexp.exe.config
+C:\Users\Howard Williams\source\repos\wexp\wexp\bin\Debug\wexp.exe
+C:\Users\Howard Williams\source\repos\wexp\wexp\bin\Debug\wexp.pdb
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.csprojAssemblyReference.cache
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.Form1.resources
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.Properties.Resources.resources
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.csproj.GenerateResource.cache
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.csproj.CoreCompileInputs.cache
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.exe
+C:\Users\Howard Williams\source\repos\wexp\wexp\obj\Debug\wexp.pdb
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\bin\Debug\wexp.exe.config
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\bin\Debug\wexp.exe
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\bin\Debug\wexp.pdb
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.csprojAssemblyReference.cache
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.Form1.resources
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.Properties.Resources.resources
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.csproj.GenerateResource.cache
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.csproj.CoreCompileInputs.cache
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.exe
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.pdb
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\bin\Debug\hcwgenericclasses.dll
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.csproj.CopyComplete
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\bin\Debug\editform.dll
+C:\Users\Howard Williams\Documents\Visual Studio 2015\Projects\wexp\wexp\obj\Debug\wexp.frmWinSATInfo.resources
